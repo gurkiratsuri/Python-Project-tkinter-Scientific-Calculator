@@ -1,4 +1,4 @@
-# ------------------------- Import library and Banner -------------------------
+# ------------------------- Import library and Banner --------------------------
 
 from tkinter import *
 import tkinter.messagebox
